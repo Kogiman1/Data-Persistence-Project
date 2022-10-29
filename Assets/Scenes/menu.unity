@@ -1840,7 +1840,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The Game's Name!
+  m_text: Brick Breaker
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1862,7 +1862,7 @@ MonoBehaviour:
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
+  m_TextStyleHashCode: 97690656
   m_overrideHtmlColors: 0
   m_faceColor:
     serializedVersion: 2
@@ -2149,3 +2149,4 @@ MonoBehaviour:
   nameChosen: 
   blue: {fileID: 2100000, guid: 679fbdaa24fc95143ab7d44785fb37f4, type: 2}
   yellow: {fileID: 2100000, guid: fe1f222d49d19474f99936ac71852d93, type: 2}
+  colorIndex: 0
